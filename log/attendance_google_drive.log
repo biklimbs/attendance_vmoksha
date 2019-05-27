@@ -1,0 +1,19 @@
+2019-05-27 11:34:03 ERROR attendance_google_drive.py 42 list_drive_dir [31mfile is not present in this folder[0m
+2019-05-27 11:52:45 INFO attendance_google_drive.py 53 download_file [36mDailyAttendance_BasicReport 17 May.xls Downloaded[0m
+2019-05-27 11:52:45 INFO attendance_google_drive.py 59 delete_all_files [32mDailyAttendance_BasicReport 17 May.xls Deleted[0m
+2019-05-27 11:53:33 INFO attendance_google_drive.py 53 download_file [36mDailyAttendance_BasicReport 2 May.xls Downloaded[0m
+2019-05-27 11:53:34 INFO attendance_google_drive.py 59 delete_all_files [33mDailyAttendance_BasicReport 2 May.xls Deleted[0m
+2019-05-27 11:55:31 INFO attendance_google_drive.py 53 download_file [36mDownloaded: DailyAttendance_BasicReport 3 May.xls[0m
+2019-05-27 11:55:32 INFO attendance_google_drive.py 59 delete_all_files [33mDeleted: DailyAttendance_BasicReport 3 May.xls[0m
+2019-05-27 12:04:16 INFO attendance_google_drive.py 45 list_drive_dir [32mFile Present in google drive:[0m
+2019-05-27 12:04:16 INFO attendance_google_drive.py 47 list_drive_dir [32mDailyAttendance_BasicReport 20 May.xls[0m
+2019-05-27 12:04:17 INFO attendance_google_drive.py 55 download_file [36mDownloaded: DailyAttendance_BasicReport 20 May.xls[0m
+2019-05-27 12:04:17 INFO attendance_google_drive.py 61 delete_all_files [33mDeleted: DailyAttendance_BasicReport 20 May.xls[0m
+2019-05-27 12:12:09 ERROR attendance_google_drive.py 43 list_drive_dir [31mfile is not present in this folder[0m
+2019-05-27 12:12:09 ERROR attendance_google_drive.py 68 download_file_from_drive [31mFolder is empty[0m
+2019-05-27 12:12:41 INFO attendance_google_drive.py 45 list_drive_dir [32mFile Present in google drive:[0m
+2019-05-27 12:12:41 INFO attendance_google_drive.py 47 list_drive_dir [32mDailyAttendance_BasicReport 21 May D.xls[0m
+2019-05-27 12:12:41 INFO attendance_google_drive.py 54 download_file [36mDownloaded: DailyAttendance_BasicReport 21 May D.xls[0m
+2019-05-27 12:12:41 INFO attendance_google_drive.py 59 delete_all_files [33mDeleted: DailyAttendance_BasicReport 21 May D.xls[0m
+2019-05-27 12:22:00 ERROR attendance_google_drive.py 38 list_drive_dir [31mfile is not present in this folder[0m
+2019-05-27 12:22:00 ERROR attendance_google_drive.py 63 download_file_from_drive [31mFolder is empty[0m

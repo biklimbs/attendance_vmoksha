@@ -1,0 +1,11 @@
+#---Attendance Database info---
+Database:--vm_attendance
+Tables:--(attendance_feb,attendance_mar,attendance_apr)
+
+---Pipeline Database---
+Database:--vm_attendence_pipeline
+table:--attendance_pipeline
+
+#---Attendance_basic_report.py---
+Database:--vm_attendance
+Table:---attendance_raw

@@ -1,0 +1,7 @@
+#---Google drive access---
+"We are using google drive api"
+Project name:--daily-attendance
+client_id:100648560907-dep7fscdjlp1gckvarclen7hsoadfqb5.apps.googleusercontent.com
+client_secret:Tk9UNjJTVwV-HLjtheQcDKxw
+
+
